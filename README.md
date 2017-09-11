@@ -4,13 +4,21 @@ For this assignment I created a mock instagram-like website by following along w
 
 I had a lot of trouble getting this going on PC, though checking the tips would've helped me a lot when I got stuck later on. Below are some pictures of the work that I did.
 
-![](https://github.com/hmc-cs-alligator/hmc-cs-alligator-s-Instagram/AddImage.png)
+![Add Image](https://github.com/hmc-cs-alligator/hmc-cs-alligotor-s-Instagram/blob/master/AddImage.png)
 The page where you make new posts.
-![](https://github.com/hmc-cs-alligator/hmc-cs-alligator-s-Instagram/addedimage.png)
+
+
+![Added Image](https://github.com/hmc-cs-alligator/hmc-cs-alligotor-s-Instagram/blob/master/addedimage.png)
 The same page confirming an image upload.
-![](https://github.com/hmc-cs-alligator/hmc-cs-alligator-s-Instagram/mainpage.png)
+
+
+![Main Page](https://github.com/hmc-cs-alligator/hmc-cs-alligotor-s-Instagram/blob/master/mainpage.png)
 The page where you can see your posts.
-![](https://github.com/hmc-cs-alligator/hmc-cs-alligator-s-Instagram/signup.png)
+
+
+![Sign Up](https://github.com/hmc-cs-alligator/hmc-cs-alligotor-s-Instagram/blob/master/signup.png)
 A page to create a new account.
-![](https://github.com/hmc-cs-alligator/hmc-cs-alligator-s-Instagram/signin.png)
+
+
+![Sign In](https://github.com/hmc-cs-alligator/hmc-cs-alligotor-s-Instagram/blob/master/signin.png)
 A page to sign into your account.
